@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
@@ -7,19 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="96684d4d-091f-4b6e-a32c-c2650d15f963" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/lonelyTwitter.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/M1.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Mood1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/M2.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Mood2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Mood.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Current_Mood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lonelyTwitter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/lonelyTwitter.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Current_Mood.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Current_Mood.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Mood1.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Mood1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Mood2.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Mood2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,6 +23,11 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/lonelyTwitter$Current_Mood.ic" NAME="Current_Mood Coverage Results" MODIFIED="1547232375676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ca.ualberta.cs.lonelytwitter.model.*</FILTER>
+    </SUITE>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -45,45 +46,45 @@
       <file leaf-file-name="Current_Mood.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Current_Mood.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Mood1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Mood1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="221">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
               <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#213#214#0" expanded="true" />
-                <element signature="e#251#252#0" expanded="true" />
-                <element signature="e#294#295#0" expanded="true" />
-                <element signature="e#327#328#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#189#190#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mood2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Mood1.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Mood1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+              <folding>
+                <element signature="e#124#125#0" expanded="true" />
+                <element signature="e#165#166#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#232#233#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Mood2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Mood2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="255">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding>
-                <element signature="e#145#146#0" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#249#250#0" expanded="true" />
-                <element signature="e#292#293#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#382#383#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#164#165#0" expanded="true" />
+                <element signature="e#191#192#0" expanded="true" />
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -2420,7 +2421,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Current_Mood">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -2490,6 +2491,17 @@
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
     </configuration>
+    <configuration name="Current_Mood" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ca.ualberta.cs.lonelytwitter.model.Current_Mood" />
+      <module name="app" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ca.ualberta.cs.lonelytwitter.model.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -2519,6 +2531,15 @@
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
     </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Application.Current_Mood" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Current_Mood" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -2533,26 +2554,37 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="Android Profiler" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32838285" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="7" />
       <window_info id="Build Variants" order="3" side_tool="true" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5015129" side_tool="true" weight="0.32838285" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Logcat" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32838285" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32838285" />
+      <window_info anchor="right" id="Coverage" side_tool="true" visible="true" weight="0.32980332" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32838285" />
+      <window_info anchor="bottom" id="Logcat" order="7" weight="0.32838285" />
       <window_info id="Captures" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="5" />
       <window_info content_ui="combo" id="Project" order="0" weight="0.32223904" />
       <window_info anchor="bottom" id="Build" order="11" sideWeight="0.49848714" weight="0.32838285" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Gradle" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
@@ -2565,7 +2597,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -2607,6 +2638,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -2615,14 +2652,11 @@
         <state relative-caret-position="68">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
           <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2631,46 +2665,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Current_Mood.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="38" lean-forward="true" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Mood1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Mood2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="255">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
           <folding>
-            <element signature="e#145#146#0" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#249#250#0" expanded="true" />
-            <element signature="e#292#293#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#191#192#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/ca/ualberta/cs/lonelytwitter/model/Mood1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+          <folding>
+            <element signature="e#124#125#0" expanded="true" />
+            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
           </folding>
         </state>
       </provider>
